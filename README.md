@@ -26,9 +26,9 @@ Print the accuracy of the model.<br>
 Plot the error convergence during training using plt.plot() and plt.show().<br>
 
 ## PROGRAM:
-Developed by : Shrruthilaya G
+Developed by : PRASANTH E 
 
-Register number : 212221230097
+Register number : 212221233002
 ```python
 import numpy as np 
 import pandas as pd 
